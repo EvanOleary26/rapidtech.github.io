@@ -4,5 +4,4 @@ __pycache__/
 .DS_Store
 population_cache.pkl
 cache.pkl
-
-
+.env
