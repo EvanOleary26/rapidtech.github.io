@@ -3,6 +3,8 @@
 ## Overview
 The Rapid.Tech Railway Simulator is a project that calculates the distance between two locations based on current roads and estimates the cost of building a high-speed railway between them. It also analyzes the population and potential ridership benefits.
 
+See demonstartion video on DevPost! https://devpost.com/software/rapid-tech
+
 ## Features
 - Calculate road distance using Google Distance Matrix API
 - Estimate railway construction costs
